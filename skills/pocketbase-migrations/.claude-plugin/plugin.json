@@ -1,0 +1,7 @@
+{
+  "name": "pocketbase-migrations",
+  "version": "1.0.1",
+  "description": "Manage PocketBase schema migrations from Claude Code",
+  "entry": "scripts/migration_generator.py",
+  "skills": ["pocketbase-migrations"]
+}
