@@ -12,7 +12,7 @@
     {
       "name": "pocketbase-migrations",
       "description": "Comprehensive PocketBase database migration management skill for creating collections, managing fields, and API rules",
-      "source": "./skills/pocketbase-migrations",
+      "source": "./",
       "strict": false,
       "skills": [
         "./skills/pocketbase-migrations"
