@@ -1,0 +1,13 @@
+{
+  "name": "pocketbase-migrations",
+  "description": "Comprehensive PocketBase database migration management skill for creating collections, managing fields, and API rules",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mark B",
+    "email": "mark@example.com"
+  },
+  "homepage": "https://github.com/burggraf/pocketbase-marketplace",
+  "repository": "https://github.com/burggraf/pocketbase-marketplace",
+  "license": "MIT",
+  "keywords": ["pocketbase", "migrations", "database", "collections", "api-rules", "schema"]
+}

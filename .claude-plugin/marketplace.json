@@ -1,0 +1,20 @@
+{
+  "name": "pocketbase-marketplace",
+  "description": "Marketplace for PocketBase development skills, including migrations, collections, and database schema management",
+  "owner": {
+    "name": "Mark B",
+    "email": "mark@example.com"
+  },
+  "plugins": [
+    {
+      "name": "pocketbase-migrations",
+      "description": "Comprehensive PocketBase database migration management skill for creating collections, managing fields, and API rules",
+      "version": "1.0.0",
+      "source": "./skills/pocketbase-migrations",
+      "author": {
+        "name": "Mark B",
+        "email": "mark@example.com"
+      }
+    }
+  ]
+}
